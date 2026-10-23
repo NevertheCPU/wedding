@@ -39,11 +39,6 @@ nav-menu: true
       		</div>
     	</div>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Schedule</h3>
-		<p> Ceremony	- 4:30 pm </p>
-		<p> Dinner		- 6:00 pm </p>
-	</div>
 	<!-- Break -->
 </div>
 
