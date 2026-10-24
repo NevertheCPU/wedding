@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: page-redirect
 title: RSVP
 image: assets/images/pic01.jpg
 nav-menu: true
+redirect: https://partiful.com/e/qw4k2uJXsbYi513A7SFa?c=qY3O1ee8
 ---
 
 <!-- Main -->
