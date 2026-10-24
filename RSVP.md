@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venue Info
+title: RSVP
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
